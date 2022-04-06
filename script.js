@@ -10,7 +10,7 @@ const newsFeedPage =document.querySelector('.feeds-page');
 
 const loginModal = document.querySelector('.login-modal');
 
-const modalX =document.querySelector('.login-modal i');
+const modalX = document.querySelector('.login-modal i');
 
 const loginFormBtn= document.querySelector('.login-form-btn');
 
@@ -36,6 +36,7 @@ const xBtn =document.querySelector('.sidebar-header i');
 const toggle = document.querySelector('.toggle');
 
 const circle = document.querySelector('.circle');
+
 /***************************************************************** */
 
 const goToLoginPage = () => {
