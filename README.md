@@ -6,11 +6,11 @@
 1. New post modal
 2. Dark / light theme
 3. Fake authentication
-    - just type in anythin in both username and password
-4. Loginpage and sign up pa
+    - just type in anything in both username and password
+4. Login page and sign up page
 5. Feeds page (hard coded)
 
-## Tech stack
+## Built with 
 - HTML
 - CSS
 - Javascript
